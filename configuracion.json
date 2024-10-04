@@ -6,9 +6,9 @@
     "Actualización 1\n- Se mejoró la interfaz de usuario.\n- Se corrigieron errores menores.",
     "Actualización 2\n- Añadido soporte para nuevos mods.\n- Optimización del rendimiento."
   ],
-  "ModsURL": "https://raw.githubusercontent.com/ElRaySZ/DBRZDEVEXTRAS/main/mods.zip",
-  "TexturePacksURL": "https://raw.githubusercontent.com/ElRaySZ/DBRZDEVEXTRAS/main/texturepacks.zip",
-  "ForgeURL": "https://raw.githubusercontent.com/ElRaySZ/DBRZDEVEXTRAS/main/forge-1.7.10.zip",
+  "ModsURL": "https://github.com/ElRaySZ/DBRZDEVEXTRAS/raw/refs/heads/main/mods.zip",
+  "TexturePacksURL": "https://github.com/ElRaySZ/DBRZDEVEXTRAS/raw/refs/heads/main/texturepacks.zip",
+  "ForgeURL": "https://github.com/ElRaySZ/DBRZDEVEXTRAS/raw/refs/heads/main/forge-1.7.10.zip",
   "Version": "1.0"
 }
 
