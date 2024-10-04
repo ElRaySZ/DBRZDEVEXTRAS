@@ -1,5 +1,3 @@
-
-
 {
   "FondoInicio": "https://media.discordapp.net/attachments/1287292633344905236/1291260074110488647/fondo1.png?ex=67001be8&is=66feca68&hm=3bd0bdfff35bf2121a45fd4f3888a4da6a193b40caf25acf0ce37ee2da1b4491&=&format=webp&quality=lossless&width=835&height=473",
   "FondoOpciones": "https://media.discordapp.net/attachments/1287292633344905236/1291260074110488647/fondo1.png?ex=67001be8&is=66feca68&hm=3bd0bdfff35bf2121a45fd4f3888a4da6a193b40caf25acf0ce37ee2da1b4491&=&format=webp&quality=lossless&width=835&height=473",
@@ -8,6 +6,9 @@
     "Actualización 1\n- Se mejoró la interfaz de usuario.\n- Se corrigieron errores menores.",
     "Actualización 2\n- Añadido soporte para nuevos mods.\n- Optimización del rendimiento."
   ],
-  "LauncherGitHubURL": "https://raw.githubusercontent.com/ElRaySZ/DBRZDEVEXTRAS/main/modpack.zip",
+  "ModsURL": "https://raw.githubusercontent.com/ElRaySZ/DBRZDEVEXTRAS/main/mods.zip",
+  "TexturePacksURL": "https://raw.githubusercontent.com/ElRaySZ/DBRZDEVEXTRAS/main/texturepacks.zip",
+  "ForgeURL": "https://raw.githubusercontent.com/ElRaySZ/DBRZDEVEXTRAS/main/forge-1.7.10.zip",
   "Version": "1.0"
 }
+
